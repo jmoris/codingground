@@ -1,0 +1,1 @@
+{"id":"awk","ext":"awk","version":"GNU Awk v4.1.0","compile":"","execute":"awk -f main.awk entrada.txt","preview":"","command":"","file":"/home/cg/src/samples/main.awk","url":"execute_awk_online.php","mode":"sh"}
